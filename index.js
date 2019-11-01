@@ -10,4 +10,3 @@ server.listen(port);
 
 console.log("Server running at http://localhost:%d", port);
 
-console.log("Jim's code updated!");
